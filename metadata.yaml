@@ -1,0 +1,26 @@
+_repo: The-True-Story-of-Christopher-Columbus-Called-the-Great-Admiral_1488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brooks, Elbridge S. (Elbridge Streeter)
+    alias: Brooks, E. S. (Elbridge Streeter)
+    birthdate: 1846
+    deathdate: 1902
+    gutenberg_agent_id: '649'
+    url: http://www.gutenberg.org/2009/agents/649
+description: A children's biography of Christopher Columbus.
+gutenberg_issued: '2006-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Explorers -- Juvenile literature'
+- !lcc 'E011'
+- !lcsh 'Columbus, Christopher -- Juvenile literature'
+- GITenberg
+title: The True Story of Christopher Columbus, Called the Great Admiral
+url: http://www.gutenberg.org/ebooks/1488
